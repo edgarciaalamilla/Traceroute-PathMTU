@@ -1,5 +1,5 @@
 # Traceroute and PathMTU tools
-## Implemented with Dr. Mendes' specifications (Networks & Distributed Systems F 2019)
+Implemented with Dr. Mendes' specifications (Networks & Distributed Systems F 2019)
 
 ## What is Traceroute?
 Traceroute is a tool included in most operating systems that displays the route between a source machine and a destination machine. 
